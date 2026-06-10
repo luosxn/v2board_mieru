@@ -1,5 +1,5 @@
 # v2board_mieru
-mieru对接xboard面板中间件 只在debian12系统上测试，推荐debian12系统运行
+mieru对接xboard面板中间件，安全无毒无后门，可以放心使用。只在debian12系统上测试，推荐debian12系统运行
 
 安装运行命令
 
