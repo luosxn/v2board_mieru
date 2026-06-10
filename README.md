@@ -1,5 +1,6 @@
 # v2board_mieru
 mieru对接xboard面板中间件 只在debian12系统上测试，推荐debian12系统运行
+
 安装运行命令
 
  apt-get install wget sudo tar -y
